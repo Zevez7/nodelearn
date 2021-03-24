@@ -1,0 +1,6 @@
+
+
+\Users\datgu\mongodb\bin\mongod.exe --dbpath=/Users/datgu/mongodb-data
+
+
+npm run dev 
